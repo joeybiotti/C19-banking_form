@@ -1,0 +1,54 @@
+form {
+	background-color: #fff;
+	margin: auto;
+}
+
+h3 {
+	color: #2F4F4F;
+	font-size: 1.25em;
+	text-align: center;
+	margin-bottom: 25px;
+	padding: auto;
+	text-decoration: underline;
+}
+
+p {
+	font-size: 1em;
+	font-weight: 600;
+	color: #696969;
+	margin: 10px auto;
+}
+
+input {
+	color: darkgrey;
+	font: lightgrey;
+	font-size: .75em;
+}
+
+
+textarea {
+	color: lightgrey;
+}
+
+#button {
+	color: #DCDCDC;
+	background-color: green;
+	margin: 15px;
+	font-size: 2em;
+	width: 125px;
+	height: 75px;
+}
+
+footer {
+	text-align:  center;
+	background: lightgreen;
+	color: darkgreen;
+}
+
+
+
+
+
+
+
+
